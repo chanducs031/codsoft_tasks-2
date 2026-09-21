@@ -1,34 +1,21 @@
-NAME : CHANDU K R
+# Cloud-Based Coding Platform Landing Page
 
-ROLE: WEB DEVELOPMENT
+This project contains the landing page code provided in the uploaded file.
 
-# codsoft_tasks-2
+## Files
+- index.html — complete HTML, CSS, and JavaScript code.
 
-The Cloud-Based Coding Platform Landing Page is a modern and responsive web landing page designed to present an online coding platform. The page provides users with an overview of the platform, its features, and key benefits through an attractive and user-friendly interface.
+## How to run
+1. Extract the ZIP file.
+2. Open `index.html` in Google Chrome, Microsoft Edge, or another modern browser.
+3. The page uses Font Awesome from a CDN, so an internet connection is needed for the icons.
 
-The landing page is developed using HTML, CSS, and JavaScript and includes interactive sections, animated counters, feature cards, navigation links, and a responsive layout.
-
-Features
-Hero Section – Introduces the cloud-based coding platform with a clear call-to-action.
-
-Platform Features – Highlights the major features and benefits of the coding platform.
-
-Statistics/Counter Section – Displays platform-related statistics using animated counters.
-
-Navigation Menu – Provides easy navigation between different sections of the page.
-
-Responsive Design – Works across desktop, tablet, and mobile screen sizes.
-
-Modern UI Design – Clean layout with attractive styling and user-friendly components.
-
-Interactive Elements – JavaScript is used to provide dynamic behavior.
-
-Font Awesome Icons – Uses Font Awesome icons through a CDN for visual elements.
-
-Call-to-Action Sections – Encourages users to explore or start using the platform.
-
-Technologies Used
-HTML5 – Structure and content of the webpage
-CSS3 – Styling, layout, animations, and responsive design
-JavaScript – Interactive functionality and dynamic elements
-Font Awesome – Icons used throughout the interface
+## Features
+- Responsive landing page
+- Navigation menu
+- Cloud-based coding platform hero section
+- Feature cards
+- Get Started and View Demo buttons
+- Interactive community counter
+- Documentation and AI links
+- Responsive layout for smaller screens
