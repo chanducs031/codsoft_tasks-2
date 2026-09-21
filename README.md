@@ -10,13 +10,21 @@ The landing page is developed using HTML, CSS, and JavaScript and includes inter
 
 Features
 Hero Section – Introduces the cloud-based coding platform with a clear call-to-action.
+
 Platform Features – Highlights the major features and benefits of the coding platform.
+
 Statistics/Counter Section – Displays platform-related statistics using animated counters.
+
 Navigation Menu – Provides easy navigation between different sections of the page.
+
 Responsive Design – Works across desktop, tablet, and mobile screen sizes.
+
 Modern UI Design – Clean layout with attractive styling and user-friendly components.
+
 Interactive Elements – JavaScript is used to provide dynamic behavior.
+
 Font Awesome Icons – Uses Font Awesome icons through a CDN for visual elements.
+
 Call-to-Action Sections – Encourages users to explore or start using the platform.
 
 Technologies Used
